@@ -1,0 +1,11 @@
+{
+  "name": "oui_braintree",
+  "version": "1.0.0",
+  "description": "OUI Braintree API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node oui.js"
+  },
+  "author": "Dennis Weston",
+  "license": "ISC"
+}
